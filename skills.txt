@@ -1,0 +1,16 @@
+python
+java
+sql
+machine learning
+data science
+deep learning
+nlp
+pandas
+numpy
+tensorflow
+pytorch
+excel
+power bi
+tableau
+aws
+docker
