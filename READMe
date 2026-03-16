@@ -1,8 +1,1 @@
-Libraries used in the AI Resume Analyzer Project
-Streamlit
-PyPDF2
-scikit-learn
-NumPy
-re (Regular Expressions – Python built-in library)
-io (Python built-in library)
-pandas (optional if used for data handling)
+step 1:python -m venv env
