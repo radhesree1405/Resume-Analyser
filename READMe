@@ -6,3 +6,8 @@ step 5:pip install scikit-learn
 step 6:pip install numpy
 step 7:pip install pandas
 step 8:python -m streamlit run resume.py
+Local URL:
+http://localhost:8501
+
+  Network URL:
+http://10.146.23.40:8501
